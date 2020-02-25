@@ -26,11 +26,11 @@
 		<ChildObjects>
 			<Attribute uuid="25b0bb33-8387-4497-91b8-c043fd1b7412">
 				<Properties>
-					<Name>ИмяФайлаПравил</Name>
+					<Name>КаталогДляСохранения</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Имя файла правил</v8:content>
+							<v8:content>Каталог для сохранения</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
