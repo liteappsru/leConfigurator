@@ -1,0 +1,16 @@
+*.1CD
+*.cfl
+*.1CL
+*.cgr
+*.cf
+*.dt
+*.lgf
+*.lgp
+bin/*.epf
+bin/*.erf
+
+1Cv8Log/*
+1Cv8Log/*
+1CHelpIndex/*
+1Cv8JobScheduler/*
+1Cv8Temp/*
